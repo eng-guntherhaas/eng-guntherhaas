@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eng-guntherhaas
-- 👀 I’m interested in music and books
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on all sorts of projects, trying to get some experience for my personal development as a webdev
-- 📫 How to reach me1: my email (guntherhaas.eng@gmail.com)
+- 👋 Hi, I’m Gunther
+- 👀 I’m interested in literature, music and history.
+- 🌱 I’m currently learning Node.js and Python
+- 💞️ I’m looking to collaborate on all sorts of projects, trying to get some experience for my personal development as a developer
+- 📫 How to reach me: my email (guntherhaas.eng@gmail.com)
 
 <!---
 eng-guntherhaas/eng-guntherhaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
