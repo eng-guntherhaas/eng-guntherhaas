@@ -1,5 +1,7 @@
 A civil engineering graduate studying systems analysis and development. Starting in the programing and development areas in search of opportunities and projects to increase my skills so I can become a better professional.
 
+  ##
+
 <div align="center"><br>
   <a href="https://github.com/eng-guntherhaas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-guntherhaas&layout=compact&langs_count=7&theme=dracula"/>
@@ -26,5 +28,5 @@ A civil engineering graduate studying systems analysis and development. Starting
 
 <br><br><br>
 <div align="right">
-    <h4>See you, space cowboy...</h4>
+    <h5>See you, space cowboy...</h5>
   </div>
